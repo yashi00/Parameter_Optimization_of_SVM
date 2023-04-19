@@ -69,8 +69,7 @@ Class: A, B, C, D, E, F, G, H, I, W, X, Y
 
 
 ## Final Result Table
-![image](https://user-images.githubusercontent.com/72307197/233187121-8091c9da-a1c3-4dd5-b54d-726e370aea0d.png)
-
+<img width="381" alt="image" src="https://user-images.githubusercontent.com/72307197/233198092-0f545f61-6627-4a81-8352-81be583afb86.png">
 
 ## Convergence Graph
 ![image](https://user-images.githubusercontent.com/72307197/233197904-3a8a4d05-8d3a-4277-be63-13c67f95efcb.png)
@@ -78,7 +77,7 @@ Class: A, B, C, D, E, F, G, H, I, W, X, Y
 ## Discussion
 From the above graph, we can conclude that the model is well trained and parameter have been optimized due to the less gap between training and cross-validation curve.
 
-The graph is made for the sample which has best accuracy. Sample 9 has the best accuracy of 0.97 having kernel = Poly, Nu = 1.27 and Epsilon = 6.87.
+The graph is made for the sample which has best accuracy. Sample 9 has the best accuracy of 0.97 having kernel = rbf, Nu = 6.17 and Epsilon = 1.90.
 
 ## Written By
 Name : Yashi Srivastava
